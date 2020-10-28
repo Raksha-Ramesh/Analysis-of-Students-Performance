@@ -28,15 +28,6 @@ run the following command
 
 python3 visualization.py
 
----
-# Contributors
-
-- Shreya Prabhu <shreya.pr611@gmail.com>
-
-- Raksha Ramesh <raksharuby@gmail.com>
-
-- Tanishq Vyas <tanishqvyas069@gmail.com>
-
 
 
 
