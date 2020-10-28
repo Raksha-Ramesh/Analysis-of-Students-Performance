@@ -26,9 +26,4 @@ change your directory to datascienceProject
 Step 4 : 
 run the following command
 
-python3 visualization.py
-
-
-
-
-
+```python3 visualization.py```
