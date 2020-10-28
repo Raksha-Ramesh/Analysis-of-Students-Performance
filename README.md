@@ -2,6 +2,11 @@
 
 A Linear Regression model to predict the final test scores for the given student dataset.
 
+## Implementation
+The dataset was cleaned and pre-processed. Exploratory Data Analysis was done to see whether there were any dependencies and/or correlations.
+Various visualizations were done to understand the dataset in its entirety.
+A regression model was built which predicted the final exam results of a student, given the various parameters.
+
 **Version 1.0.0**
 
 ---
